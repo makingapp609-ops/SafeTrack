@@ -1,0 +1,7 @@
+{
+  "name": "SafeTrack",
+  "description": "Authorized Android device recovery and remote fleet management system with Elegant Dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
